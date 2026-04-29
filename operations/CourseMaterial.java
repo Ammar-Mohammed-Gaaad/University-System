@@ -1,4 +1,4 @@
-package Operations & Interactions;
+package operations;
 
 public class CourseMaterial {
     
